@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Abdomen Xray Report",
+        "description":"As we get older, it’s only natural that we encounter the odd ache or niggle every now and then. You ",
+        "img":"https://i.ibb.co/XxyJhjc/services1-jpg.webp"
+        },
+        {
+            "id":2,
+            "name":"Xray Report",
+            "description":"Women make up a significant portion of the workforce, so it is hardly surprising that gender equality in the workplace ",
+            "img":"https://i.ibb.co/BVMRxs3/services2-jpg.webp"
+            },
+            {
+                "id":3,
+                "name":"City Scan",
+                "description":"If you’re among the many people working on an office job, you can probably relate to how it feels like",
+                "img":"https://i.ibb.co/c6dQC1C/services3-jpg.webp"
+                },
+                {
+                    "id":4,
+                    "name":"Patient Treatment",
+                    "description":"For many young people, attending medical school, studying medicine, and becoming a doctor are lifelong dreams. Medicine is an esteemed ",
+                    "img":"https://i.ibb.co/0rH3tm6/services4-jpg.webp"
+                    },
+                    {
+                        "id":5,
+                        "name":"Examining-The-Medical-X-ray",
+                        "description":"From staying connected to being warm indoors, this article will outline a few tips about how you can keep an ",
+                        "img":"https://i.ibb.co/Q9zMFrM/Doctors-examining-the-medical-x-ray.jpg"
+                        },
+                            {
+                                "id":7,
+                                "name":"High Pressar Treatment",
+                                "description":"Concussions are a common type of injury, and one which more people should understand in order to both cope with ",
+                                "img":"https://i.ibb.co/CHs5mqB/services7-png.webp"
+                            }
+]
